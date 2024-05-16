@@ -2,7 +2,9 @@
 ✨✨Latest Papers on AI-Generated Video Detection and Related Areas
 
 ## Survey
-
+| Title                                                        | Venue       | Year |
+| :----------------------------------------------------------- | ----------- | ---- |
+|[A Survey on Deepfake Video Detection](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/bme2.12031) | Iet Biometrics | 2021 | 
 
 ## Datasets
 | Dataset|Title                                                        | Venue       | Year |       Task     |
