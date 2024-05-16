@@ -10,4 +10,4 @@
 
 | Title                                                        | Venue       | Year |               Detection Type                       | Code if available                                                     |
 | :----------------------------------------------------------- | ----------- | ---- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| [DeCoF: Generated Video Detection via Frame Consistency](https://arxiv.org/pdf/2402.02085) | arXiv        | 2024 | Temporal/Video-based| N/A 
+| [DeCoF: Generated Video Detection via Frame Consistency](https://arxiv.org/pdf/2402.02085) | arXiv        | 2024 | Video-based, CLIP+Transformer modeling temporal artifacts| N/A 
