@@ -1,6 +1,13 @@
 # Awesome-AI-Generated-Video-Detection
 ✨✨Latest Papers on AI-Generated Video Detection and Related Areas
 
+## Contents
+- [Survey](#survey)
+- [Dataset](#dataset)
+- [Competition](#competition)
+- [Paper](#papers)
+
+
 ## Survey
 | Title                                                        | Venue       | Year |
 | :----------------------------------------------------------- | ----------- | ---- |
@@ -18,7 +25,7 @@
 |DFAD@CVPR| https://www.dfad.unimore.it/challenge/| 2024
 
 
-## Paper
+## Papers
 
 | Title                                                        | Venue       | Year |       Task     |   Detection Type                       | Code if available                                                     |
 | :----------------------------------------------------------- | ----------- | ---- | ---- |------------------------------------------------------------ | ---------------------------------------------------- |
