@@ -10,6 +10,7 @@
 | Dataset|Title                                                        | Venue       | Year |       Task     |
 | :--------------------------- | -------------------------------- | ----------- | ---- | -------------- |
 | Faceforensics| [Faceforensics: A large-scale video dataset for forgery detection in human faces](https://arxiv.org/abs/1803.09179)| arXiv | 2018 | Face|
+| FakeAVCeleb | [FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset](https://arxiv.org/abs/2108.05080)| NeurIPS Datasets and Benchmarks Track| 2021 | Face|
 
 
 ## Methods
