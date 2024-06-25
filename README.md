@@ -31,6 +31,7 @@
 
 | Title                                                        | Venue       | Year |       Task     |   Insights                       | Code if available                                                     |
 | :----------------------------------------------------------- | ----------- | ---- | ---- |------------------------------------------------------------ | ---------------------------------------------------- |
+| [Turns Out I’m Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/pdf/2406.09601) | arXiv        | 2024 |   General Detection  | Dire frame & CNN + LSTM detector| N/A
 | [DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark](https://arxiv.org/abs/2405.19707) | arXiv        | 2024 |   General Detection  |Detail Mamba modeling spatial-temporal artifacts| [Code](https://github.com/chenhaoxing/DeMamba)
 | [Distinguish Any Fake Videos: Unleashing the Power of Large-scale Data and Motion Features](https://arxiv.org/pdf/2405.15343) | arXiv   | 2024 |   General Detection  |Dual path feature fusing: sptial-temporal and optical flow| N/A
 | [DeCoF: Generated Video Detection via Frame Consistency](https://arxiv.org/pdf/2402.02085) | arXiv        | 2024 |   General Detection  |Video-based, CLIP+Transformer modeling temporal artifacts| N/A 
