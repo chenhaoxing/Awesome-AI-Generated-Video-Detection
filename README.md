@@ -24,6 +24,7 @@
 ## Competition
 | Name|Link  | Year | 
 | :--------------------------- | ------------- | ----------- | 
+|Artificial Intelligence Generated Image Detection@MM|https://challenge.ai.mgtv.com/#/track/24| 2024
 |DFAD@CVPR| https://www.dfad.unimore.it/challenge/| 2024
 
 
