@@ -32,6 +32,7 @@
 
 | Title                                                        | Venue       | Year |       Task     |   Insights                       | Code if available                                                     |
 | :----------------------------------------------------------- | ----------- | ---- | ---- |------------------------------------------------------------ | ---------------------------------------------------- |
+| [Beyond Deepfake Images: Detecting AI-Generated Videos](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Vahdati_Beyond_Deepfake_Images_Detecting_AI-Generated_Videos_CVPRW_2024_paper.pdf) | CVPR Workshop    | 2024 |   General Detection  | None new methods| N/A
 | [What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/pdf/2406.19568) | arXiv        | 2024 |   General Detection  | Appearance + Motion + Geometry feature fusion| [Code](https://justin-crchang.github.io/3DCNNDetection.github.io/)
 | [Turns Out I’m Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/pdf/2406.09601) | arXiv        | 2024 |   General Detection  | Dire frame & CNN + LSTM detector| N/A
 | [DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark](https://arxiv.org/abs/2405.19707) | arXiv        | 2024 |   General Detection  |Detail Mamba modeling spatial-temporal artifacts| [Code](https://github.com/chenhaoxing/DeMamba)
