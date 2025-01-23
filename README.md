@@ -33,7 +33,7 @@
 
 | Title                                                        | Venue       | Year |       Task     |   Insights                       | Code if available                                                     |
 | :----------------------------------------------------------- | ----------- | ---- | ---- |------------------------------------------------------------ | ---------------------------------------------------- |
-| [GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video](https://arxiv.org/abs/2501.11340)| arXiv | 2025 | General Detection  || None new methods| [Code](https://github.com/genvidbench/GenVidBench)
+| [GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video](https://arxiv.org/abs/2501.11340)| arXiv | 2025 | General Detection  | None new methods| [Code](https://github.com/genvidbench/GenVidBench)
 | [Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content](https://arxiv.org/pdf/2412.12278) | arXiv    | 2024 |   General Detection  |Universal Network for Identifying Tampered and synthEtic videos (UNITE), with its attention-diversity (AD) loss, effectively detects both face/background manipulations and fully synthetic content| N/A
 | [Beyond Deepfake Images: Detecting AI-Generated Videos](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Vahdati_Beyond_Deepfake_Images_Detecting_AI-Generated_Videos_CVPRW_2024_paper.pdf) | CVPR Workshop    | 2024 |   General Detection  | None new methods| N/A
 | [What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/pdf/2406.19568) | arXiv        | 2024 |   General Detection  | Appearance + Motion + Geometry feature fusion| [Code](https://justin-crchang.github.io/3DCNNDetection.github.io/)
