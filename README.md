@@ -33,6 +33,7 @@
 
 | Title                                                        | Venue       | Year |       Task     |   Insights                       | Code if available                                                     |
 | :----------------------------------------------------------- | ----------- | ---- | ---- |------------------------------------------------------------ | ---------------------------------------------------- |
+| [BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation](https://arxiv.org/pdf/2505.12620v2)| arXiv | 2025 | General Detection  | MLLM + DAPO, reasoning/explanation model| N/A
 | [GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video](https://arxiv.org/abs/2501.11340)| arXiv | 2025 | General Detection  | None new methods| [Code](https://github.com/genvidbench/GenVidBench)
 | [Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content](https://arxiv.org/pdf/2412.12278) | arXiv    | 2024 |   General Detection  |Universal Network for Identifying Tampered and synthEtic videos (UNITE), with its attention-diversity (AD) loss, effectively detects both face/background manipulations and fully synthetic content| N/A
 | [Beyond Deepfake Images: Detecting AI-Generated Videos](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Vahdati_Beyond_Deepfake_Images_Detecting_AI-Generated_Videos_CVPRW_2024_paper.pdf) | CVPR Workshop    | 2024 |   General Detection  | None new methods| N/A
