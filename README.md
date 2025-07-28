@@ -16,7 +16,7 @@
 ## Dataset
 | Dataset|Title                                                        | Venue       | Year |       Task     |
 | :--------------------------- | -------------------------------- | ----------- | ---- | -------------- |
-| IVY-FAKE| [IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/pdf/2505.12620v2) | arXiv | 2025 | General
+| IVY-FAKE| [IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979) | arXiv | 2025 | General
 | GenVidBench | [GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video](https://arxiv.org/abs/2501.11340)| arXiv | 2025 | General
 | GenVideo| [DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark](https://arxiv.org/abs/2405.19707)| arXiv | 2024 | General
 | GenVidDet| [Distinguish Any Fake Videos: Unleashing the Power of Large-scale Data and Motion Features](https://arxiv.org/pdf/2405.15343)| arXiv | 2024 | General
