@@ -43,6 +43,7 @@
 
 | Title                                                        | Venue         | Year | Task                | Insights                                                     | Code                                                         |
 | :----------------------------------------------------------- | :-----------: | :--: | :-----------------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| [Video Forgery Detection with Optical Flow Residuals and Spatial-Temporal Consistency](https://arxiv.org/pdf/2508.00397)  | arXiv         | 2025 | General Detection   | Optical Flow Residuals | - |
 | [D3: Training-Free AI-Generated Video Detection Using Second-Order Features](https://arxiv.org/pdf/2508.00701) | arXiv         | 2025 | General Detection   | Second-order Central Difference features  | [Code](https://github.com/Zig-HS/D3) |
 | [BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](https://arxiv.org/abs/2507.14632) | arXiv         | 2025 | General Detection   | Hybrid reasoning                                             | [Code](https://github.com/l8cv/BusterX?tab=readme-ov-file)     |
 | [IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979) | arXiv         | 2025 | General Detection   | Explanation model                                            | —                                                            |
