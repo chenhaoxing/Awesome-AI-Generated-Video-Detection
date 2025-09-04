@@ -16,6 +16,7 @@
 ## Dataset
 | Dataset|Title                                                        | Venue       | Year |       Task     |
 | :--------------------------- | -------------------------------- | ----------- | ---- | -------------- |
+| BusterX++ | [BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](https://arxiv.org/pdf/2507.14632) | arXiv | 2025 | General
 | IVY-FAKE| [IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979) | arXiv | 2025 | General
 | GenVidBench | [GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video](https://arxiv.org/abs/2501.11340)| arXiv | 2025 | General
 | GenVideo| [DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark](https://arxiv.org/abs/2405.19707)| arXiv | 2024 | General
@@ -34,6 +35,7 @@
 
 | Title                                                        | Venue       | Year |       Task     |   Insights                       | Code if available                                                     |
 | :----------------------------------------------------------- | ----------- | ---- | ---- |------------------------------------------------------------ | ---------------------------------------------------- |
+| [BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](https://arxiv.org/abs/2507.14632)| arXiv | 2025 | General Detection  | Hybrid reasoing | [Code](https://github.com/l8cv/BusterX?tab=readme-ov-file)
 | [IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979)| arXiv | 2025 | General Detection  | explanation model| N/A
 | [BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation](https://arxiv.org/pdf/2505.12620v2)| arXiv | 2025 | General Detection  | MLLM + DAPO, reasoning/explanation model| N/A
 | [GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video](https://arxiv.org/abs/2501.11340)| arXiv | 2025 | General Detection  | None new methods| [Code](https://github.com/genvidbench/GenVidBench)
