@@ -11,14 +11,14 @@
 
 ---
 
-## 📜 Survey
+## Survey
 | Title                                                        | Venue          | Year |
 | :----------------------------------------------------------- | :------------: | :--: |
 | [A Survey on Deepfake Video Detection](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/bme2.12031) | IET Biometrics | 2021 |
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 | Dataset      | Title                                                        | Venue                             | Year | Task     |
 | :----------- | :----------------------------------------------------------- | :-------------------------------: | :--: | :------: |
 | BusterX++    | [BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](https://arxiv.org/pdf/2507.14632) | arXiv                             | 2025 | General  |
@@ -31,7 +31,7 @@
 
 ---
 
-## 🏆 Competition
+## Competition
 | Name                                      | Link                                         | Year |
 | :---------------------------------------- | :------------------------------------------- | :--: |
 | Artificial Intelligence Generated Image Detection@MM | https://challenge.ai.mgtv.com/#/track/24     | 2024 |
@@ -39,7 +39,7 @@
 
 ---
 
-## 📄 Papers
+## Papers
 
 | Title                                                        | Venue         | Year | Task                | Insights                                                     | Code                                                         |
 | :----------------------------------------------------------- | :-----------: | :--: | :-----------------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -54,7 +54,7 @@
 | [Towards a Universal Synthetic Video Detector: From Face or Background Manipulations to Fully AI-Generated Content](https://arxiv.org/pdf/2412.12278) | CVPR   | 2025 | General Detection   | Universal Network for Identifying Tampered and synthEtic videos (UNITE), with its attention-diversity (AD) loss, effectively detects both face/background manipulations and fully synthetic content | —                                                            |
 | [Beyond Deepfake Images: Detecting AI-Generated Videos](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Vahdati_Beyond_Deepfake_Images_Detecting_AI-Generated_Videos_CVPRW_2024_paper.pdf) | CVPR Workshop | 2024 | General Detection   | None new methods                                             | —                                                            |
 | [What Matters in Detecting AI-Generated Videos like Sora?](https://arxiv.org/pdf/2406.19568) | arXiv         | 2024 | General Detection   | Appearance + Motion + Geometry feature fusion                | [Code](https://justin-crchang.github.io/3DCNNDetection.github.io/) |
-| [Turns Out I’m Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/pdf/2406.09601) | CVPR Workshop | 2024 | General Detection   | Dire frame & CNN + LSTM detector                             | —                                                            |
+| [Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos](https://arxiv.org/pdf/2406.09601) | CVPR Workshop | 2024 | General Detection   | Dire frame & CNN + LSTM detector                             | —                                                            |
 | [DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark](https://arxiv.org/abs/2405.19707) | arXiv         | 2024 | General Detection   | Detail Mamba modeling spatial-temporal artifacts             | [Code](https://github.com/chenhaoxing/DeMamba)               |
 | [Exposing AI-generated Videos: A Benchmark Dataset and a Local-and-Global Temporal Defect Based Detection Method](https://arxiv.org/abs/2405.04133) | arXiv         | 2024 | General Detection   | Local and global artifacts                                   | —                                                            |
 | [Distinguish Any Fake Videos: Unleashing the Power of Large-scale Data and Motion Features](https://arxiv.org/pdf/2405.15343) | arXiv         | 2024 | General Detection   | Dual path feature fusing: spatial-temporal and optical flow    | —                                                            |
