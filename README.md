@@ -21,6 +21,8 @@
 ## Dataset
 | Dataset      | Title                                                        | Venue                             | Year | Task     |
 | :----------- | :----------------------------------------------------------- | :-------------------------------: | :--: | :------: |
+
+| ComGenVid | [Training-free Detection of Generated Videos via Spatio-Temporal Likelihoods](https://arxiv.org/pdf/2603.15026)| CVPR | 2026| General|
 | ActivityForensics| [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](https://arxiv.org/abs/2604.03819)| CVPR                             | 2026 | General  |
 | BusterX++    | [BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](https://arxiv.org/pdf/2507.14632) | arXiv                             | 2025 | General  |
 | IVY-FAKE     | [IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979) | arXiv                             | 2025 | General  |
